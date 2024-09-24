@@ -721,6 +721,7 @@ a:hover {
 }
 .download-btn:hover {
   background-color: #e65100;
+  color: white;
 }
 
 /*======================================
