@@ -703,6 +703,28 @@ a:hover {
   background-color: orangered;
 }
 
+.button-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.download-btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: orangered;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+}
+
+.download-btn:hover {
+  background-color: orangered;
+}
+
+
 /*======================================
 //--//-->   SERVICES
 ======================================*/
